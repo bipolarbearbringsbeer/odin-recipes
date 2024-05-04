@@ -15,3 +15,5 @@ This website is dedicated to those who love to cook but don't have much time. We
 ## 🧑‍🍳 Get Cooking!
 
 Choose a recipe, gather your ingredients, and let's whip up some culinary magic! Bon appétit! 🎉
+
+[Watch website](https://bipolarbearbringsbeer.github.io/odin-recipes/)
